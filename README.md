@@ -1,7 +1,7 @@
 # ML Projects
 INDEX
-- Image Classification Homework (Located in the homework folder)
+- HW#1 Image Classification Homework (Located in the homework folder)
 homework/index.js
 
-- Stock Predictions
+- HW#2 Stock Predictions
 predictions.py
