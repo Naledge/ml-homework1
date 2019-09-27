@@ -1,5 +1,7 @@
 # ML Projects
+
 INDEX
+
 HW#1 Image Classification Homework (Located in the homework folder)
 - homework/index.js
 
